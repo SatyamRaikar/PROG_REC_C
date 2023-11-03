@@ -10,7 +10,7 @@ int recu(int);
 int wrecu(int);
 int main()
 {
-    int a,b,c=0,e,f;
+    int a,b,c=0,e;
     while(1)
     {c=0;
     printf("please enter 5 digit number:");
